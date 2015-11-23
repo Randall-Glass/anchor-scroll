@@ -8,5 +8,3 @@ Updated it to be more cross browser compatible.
 
 1. Insert scroll.js anywhere on your page.
 2. Add a `scroll` class on your links and the correct ids and anchors.
-
-Please let me know how this works on mobile.
